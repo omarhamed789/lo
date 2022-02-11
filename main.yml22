@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main(void)
+# cs504
+progect24rt
+{
+printf("hello, world\n");
+printf("hello, world\n");
